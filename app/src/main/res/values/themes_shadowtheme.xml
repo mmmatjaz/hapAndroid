@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="ShadowTheme" parent="@style/_ShadowTheme"/>
+
+  <style name="_ShadowTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextShadowTheme</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxShadowTheme</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonShadowTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonShadowTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonShadowTheme</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerShadowTheme</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemShadowTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarShadowTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarShadowTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleShadowTheme</item>
+
+    <item name="android:listViewStyle">@style/ListViewShadowTheme</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewShadowTheme.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemShadowTheme</item>
+
+  </style>
+
+</resources>

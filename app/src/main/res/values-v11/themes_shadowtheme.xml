@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="ShadowTheme" parent="@style/_ShadowTheme"/>
+
+  <style name="_ShadowTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/shadowtheme_edit_text_holo_light</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/shadowtheme_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/shadowtheme_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonShadowTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonShadowTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerShadowTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarShadowTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarShadowTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleShadowTheme</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/shadowtheme_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/shadowtheme_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/shadowtheme_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>
